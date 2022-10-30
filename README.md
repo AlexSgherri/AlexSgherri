@@ -8,6 +8,9 @@ I’m currently learning everything i can about programming and working on polis
 <a href="https://www.linkedin.com/in/alessandro-sgherri-a7523b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /> </a>
 </p>
 
+<h3 align="left">Contact me:</h3>
+📫 <p text-decoration="underline">a.sgherri92@gmail.com</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
     <a href="https://www.w3.org/html/" target="_blank"> 
