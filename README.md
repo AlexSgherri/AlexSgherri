@@ -9,7 +9,7 @@ I’m currently learning everything i can about programming and working on polis
 </p>
 
 <h3 align="left">Contact me:</h3>
-📫 (mailto:a.sgherri92@gmail.com)
+📫 [mailto:a.sgherri92@gmail.com](mailto:a.sgherri92@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
